@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2e5b3592152d994ca8a19c77bea6d8f, type: 3}
+  m_Name: A1. Beginning
+  m_EditorClassIdentifier: 
+  storyText: "Once upon a time, in rainforests of New Zealand lived a kiwi. His name
+    was Potato, which means \"skitish and round\". \r\nPotato had lots of friends.
+    He loved to roam in the forest and foraging. \r\nOne day he met something very
+    strange. It was a trail of enourmous footprints, each was the same size of Potato
+    himself. \r\nThe trail led somewhere. \r\n\r\nHe could go on the trail or continue
+    to search for worms.\r\n\r\nWhat should he do?\r\n1. Investigate where the trail
+    leads\r\n2. \"Nah, I still have to search for food\r because I don't have a Countdown
+    here\""
+  nextStates:
+  - {fileID: 11400000, guid: c599a47951b5c3a448d979ec4afdfa79, type: 2}
+  - {fileID: 11400000, guid: 45ef11c4a7680a74dadd894a9a8f78e3, type: 2}

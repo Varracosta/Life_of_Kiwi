@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2e5b3592152d994ca8a19c77bea6d8f, type: 3}
+  m_Name: G3. Gameover with lady
+  m_EditorClassIdentifier: 
+  storyText: "A year passed. Coming out of his den to his family of lovely kiwi girl
+    and two chicks, Potato thought about that day when he found a trail. Where it
+    led? Where did it end? What could he found on the trail? Sometimes this questions
+    arised in his head, but then he looked on his kids, and beautiful kiwi wife and
+    forget everything.\n\nWell, something like that could be said if kiwis thought
+    like humans in american movies. Can kiwis think like that? Maybe, who knows...
+    \n\nWould you like to try again?\n1. Hell yeah!\n2. Hell no"
+  nextStates:
+  - {fileID: 11400000, guid: a148d620d0058e04c8e2a7ac89b94081, type: 2}
+  - {fileID: 11400000, guid: ee72147ee4db4c948bc480b76d307267, type: 2}

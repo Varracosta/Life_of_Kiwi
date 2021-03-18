@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2e5b3592152d994ca8a19c77bea6d8f, type: 3}
+  m_Name: A2. Finding boot
+  m_EditorClassIdentifier: 
+  storyText: "As curious as ordinary kiwi can be, Potato decided to follow the intriguing
+    trail of alien foorsteps. \nIn 15 minutes or so, the trail led him to strange
+    object. He never saw anything like that, it was bold and brown, smelled like
+    a leather, and had two long lases similar to roots or eels who he knew occupied
+    the rivers. A fear doubled in him, but curiosity became stronger.\n\n1. \"It's
+    better to return to food search. It becomes stranger and stranger\"\n2. Follow
+    the trail of footsteps\n\n \n"
+  nextStates:
+  - {fileID: 11400000, guid: 45ef11c4a7680a74dadd894a9a8f78e3, type: 2}
+  - {fileID: 11400000, guid: cfea12ac2e69ab44787d1032cc17d883, type: 2}

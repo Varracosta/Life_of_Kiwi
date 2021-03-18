@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2e5b3592152d994ca8a19c77bea6d8f, type: 3}
+  m_Name: B3. Hi hoomans
+  m_EditorClassIdentifier: 
+  storyText: "Living all doubts behind, Potato found the path and returned on it
+    one again. Soon the trail led him to a small glade with gigantic strange things
+    of unnatural colours (tents). Definetly, Potato smelled aliens, but the glade
+    was empty. Maybe they left. Among smells of aliens, kiwi noticed a precious smell
+    of food. Worms! Looks like the smell came from the small cylindrical (how does
+    kiwi know what means \"cylindrical\"? Anyway!) thing which was opened. \n\n1.
+    Carefully approach to cylindrical thing, grab worms, .... ,PROFIT!... Now RUN!
+    (kiwi grabs worms and run back in bushes)\n\nAuthor decided that wild life and
+    hoomans won't cross in this game. Let the nature be untouched this time.  "
+  nextStates:
+  - {fileID: 11400000, guid: a5d7696d9d28c224892cdbdb5d0fd784, type: 2}

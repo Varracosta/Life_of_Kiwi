@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2e5b3592152d994ca8a19c77bea6d8f, type: 3}
+  m_Name: B2. Kiwi lady
+  m_EditorClassIdentifier: 
+  storyText: "Potato tries to prove that his name is not a synonym to \"coward\",
+    and he decides to encounter the murderous beast! Possum rushed forward, but Potato
+    dodged, and hit it with all strengh of kiwi mighty muscle legs! His sharp claws
+    slashed over possum's muzzle. The beast squilled in pain, and rushed in bush,
+    running away from Potato. \nNow and forever the forests of New Zealand (well,
+    honestly, only this small part where Potato lives) will know him as a brave hero!
+    And now \"Potato\" will mean \"round and audacious\".\n\nPotato noticed that
+    a handsome, beautiful kiwi girl watched  how he fought. She is impressed, if
+    not the least! \n\n1. Forget about adventures and try to build a family\n2. \"A
+    true warrior stays on the path\" (try to find the trail) "
+  nextStates:
+  - {fileID: 11400000, guid: 83b51b2b12655af4ea63307842f33c65, type: 2}
+  - {fileID: 11400000, guid: 329f965f13083c34a854b43e99c85601, type: 2}
