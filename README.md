@@ -1,4 +1,4 @@
-# Life_of_Kiwi
+# Life of Ki(wi)
 Text quest about life of kiwi bird  
 
 <a href='https://postimg.cc/zHBrDW2X' target='_blank'><img src='https://i.postimg.cc/tJdC5NhP/LK-screen1.jpg' border='0' alt='LK-screen1' width='750' height='415'/></a>
